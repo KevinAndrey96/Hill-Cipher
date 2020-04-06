@@ -166,4 +166,4 @@ else:
         # print(int(cipher[i][0]), " - ", int(cipher[i][1]))
         print(abecedario[int(descipher[i][0])], "", abecedario[int(descipher[i][1])]," ", end='')
 
-
+#VKFZRVWTIAZSMISGKA
